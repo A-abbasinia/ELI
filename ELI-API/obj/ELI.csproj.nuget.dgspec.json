@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\ASP.NET(home)\\ELI\\ELI.csproj": {}
+    "D:\\Projects\\ASP.NET(home)\\ELI\\ELI-API\\ELI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\ASP.NET(home)\\ELI\\ELI.csproj": {
+    "D:\\Projects\\ASP.NET(home)\\ELI\\ELI-API\\ELI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\ASP.NET(home)\\ELI\\ELI.csproj",
+        "projectUniqueName": "D:\\Projects\\ASP.NET(home)\\ELI\\ELI-API\\ELI.csproj",
         "projectName": "ELI",
-        "projectPath": "D:\\Projects\\ASP.NET(home)\\ELI\\ELI.csproj",
+        "projectPath": "D:\\Projects\\ASP.NET(home)\\ELI\\ELI-API\\ELI.csproj",
         "packagesPath": "C:\\Users\\ACG\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\ASP.NET(home)\\ELI\\obj\\",
+        "outputPath": "D:\\Projects\\ASP.NET(home)\\ELI\\ELI-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACG\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
             }
           },
           "imports": [
